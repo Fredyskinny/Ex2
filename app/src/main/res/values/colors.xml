@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="fondo">#333333</color>
+    <color name="azul" >#33B5E5</color>
+    <color name="amarillo">#FFFF00</color>
+    <color name="verde">#99CC00</color>
+    <color name="rojo">#FF4444</color>
+    <color name="naranja">#ff9b44</color>
+    <color name="rosa">#ff44ff</color>
+
+    <integer-array name="colores">
+        <item>@color/azul</item>
+        <item>@color/amarillo</item>
+        <item>@color/verde</item>
+        <item>@color/rojo</item>
+        <item>@color/naranja</item>
+        <item>@color/rosa</item>
+
+    </integer-array>
+
+</resources>
+
